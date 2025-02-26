@@ -13,9 +13,13 @@
   
    AI/ML 
 - 💞️ I’m looking to collaborate on :
+  
     Web and mobile app projects
+  
     Open-source contributions
+  
     Real-time applications
+  
     Python Projects
 
 - 📫 How to reach me :
