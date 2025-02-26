@@ -6,9 +6,11 @@
   Artificial intelligence and Machine Learning
   
 - 🌱 I’m currently learning:
-- 
+  
    Python
+  
    React Framework
+  
    AI/ML 
 - 💞️ I’m looking to collaborate on :
     Web and mobile app projects
