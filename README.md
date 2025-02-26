@@ -1,6 +1,15 @@
 - 👋 Hi, I’m Vishwas Chandra M C
-- 👀 I’m interested in Web Development , Artificial intelligence and Machine Learning
-- 🌱 I’m currently learning in Python , React , AI/ML 
+- 👀 I’m interested in:
+
+  Web Development
+
+  Artificial intelligence and Machine Learning
+  
+- 🌱 I’m currently learning:
+- 
+   Python
+   React Framework
+   AI/ML 
 - 💞️ I’m looking to collaborate on :
     Web and mobile app projects
     Open-source contributions
