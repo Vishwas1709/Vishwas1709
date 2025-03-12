@@ -27,7 +27,7 @@
   LinkedIn : https://www.linkedin.com/in/vishwas-chandra-m-c-992b68245
   
   Email : vishwaschandramc2003@gmail.com
-- 😄 Pronouns: He/him/hise
+- 😄 Pronouns: He/him/his
 
 <!---
 Vishwas1709/Vishwas1709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
